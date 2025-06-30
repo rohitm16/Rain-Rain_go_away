@@ -7,7 +7,6 @@
 ## 🚀 The Challenge
 
 **Design an automated rain-detection and wiper control system with:**
-- Custom binary rain sensor
 - 4 discrete wiper speed levels (0°-180° motion)
 - Visual LED speedometer display
 - Wireless braking mechanism
